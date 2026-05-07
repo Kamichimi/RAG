@@ -62,4 +62,3 @@ Voici les choix techniques effectués durant le développement :
 - `indexation.py` : Script à lancer pour préparer la base.
 - `rag.py` : Script principal pour lancer l'assistant (interface CLI).
 - `contexte.txt` : Fichier de configuration du comportement de l'IA.
-- `.env` : Contient la clé API GROQ_API_KEY.
